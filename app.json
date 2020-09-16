@@ -1,0 +1,7 @@
+{
+  "name": "SuperMan",
+  "description": "SuperMan on kintohub.",
+  "keywords": [ "SuperMan" ],
+  "repository": "https://github.com/yushufeng/kintohub",
+  "stack": "container"
+}
